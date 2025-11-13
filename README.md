@@ -26,7 +26,7 @@ It’s designed as a front-end web project with clean navigation, smooth animati
 ---
 
 ##  Technologies Used
-| HTML |CSS| Java
+| HTML | CSS | JavaScript |
 
 
 
